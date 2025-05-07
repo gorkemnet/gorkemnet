@@ -1,21 +1,4 @@
-# Hi, I'm Görkem 👋
+# Gorkable
 
-Welcome to my GitHub profile.
-
-- 💻 I love building things with code
-- 🧠 Always learning, always curious
-- 🌍 Based in [Your Location]
-- 📫 Reach me at: [your-email@example.com]
-
-## 🚀 Projects
-
-You can find a mix of personal experiments, open source contributions, and side projects here.
-
-## 📌 Currently
-
-Working on: `...`  
-Interested in: `web development`, `automation`, `AI`, `open source`
-
----
-
-Thanks for visiting!
+A space shaped by curiosity and clarity. Here, code is written with intention, not noise.
+Quiet doesn't mean inactive. This is where ideas take shape slowly, simply, and with care.
